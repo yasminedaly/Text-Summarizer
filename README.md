@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-git clone https://github.com/Bouallegui-Moudhaffer/Text-Summarizer.git
+git clone https://github.com/yasminedaly/Text-Summarizer.git
 cd Text-Summarizer
 ```
 ### STEP 01- Create a conda environment after opening the repository
@@ -50,11 +50,11 @@ Now, open your browser and navigate to your local host and port to access the ap
 
 
 ```bash
-Author: Moudhaffer Bouallegui
+Author: Yasmine DALY
 Data Scientist
-Email: boualleguimoudhaffer@gmail.com
-Website: https://www.moudhafferbouallegui.me
-LinkedIn: https://www.linkedin.com/in/moudhafferbouallegui
+Email: yasmine.daly@esprit.tn
+Website: https://www.yasminedaly.me
+LinkedIn: https://www.linkedin.com/in/yasminedaly/
 ```
 
 # Docker Installation and Setup
@@ -279,10 +279,3 @@ Open your browser and navigate to your VM's public IP address to access the appl
 
 ### By following these updated instructions, you can clone the repository, set up the environment, install and use Docker locally, deploy the application to Azure, and automate the deployment using GitHub Actions.
 ### If you encounter any issues or need further assistance, feel free to reach out!
-
-## Author
-### Moudhaffer Bouallegui
-### Data Scientist
-### Email: boualleguimoudhaffer@gmail.com
-### Website: https://www.moudhafferbouallegui.me
-### LinkedIn: https://www.linkedin.com/in/moudhafferbouallegui
